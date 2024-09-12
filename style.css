@@ -10,7 +10,7 @@
 .hero {
   height: 100vh;
   width: 100%;
-  background-image: url(https://github.com/Himanshudinkar/single_page/blob/main/image.jpg);
+  background-image: url(image.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
